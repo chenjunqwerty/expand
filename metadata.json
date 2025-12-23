@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 广东智装 - 市场拓展数智平台",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
